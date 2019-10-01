@@ -4,13 +4,13 @@ In this lecture we talk about debugging practices.
 
 `Debugging` is the process of identifying and removing errors from software.
 
-This term originated in 1940 from Admiral Grace Hopper who was working on the Mark II computer at Harvard and found a Moth inside of the machine. When they removed the moth they delcared they were "debugging" the system.
+This term originated in 1940 from Admiral Grace Hopper who was working on the Mark II computer at Harvard and found a Moth inside of the machine. When they removed the moth they declared they were "debugging" the system.
 
 ![Debugging](images/debugging.jpg)
 
 Debugging is a very important skill to have because you will never write any code that is 100% "bug free".
 
-We are always adding new bugs to our code when we start adding new features or change around the architecture or design. Without the ability to find and remove the bugs inside of our code, we will never writew good software.
+We are always adding new bugs to our code when we start adding new features or change around the architecture or design. Without the ability to find and remove the bugs inside of our code, we will never write good software.
 
 The better you are at reasoning about code and figuring out why it is broken, the more valuable & efficient you will be as a programmer.
 
@@ -73,13 +73,13 @@ Can you find the bug?
 
 This problem was just trying to take a look at this can take forever to figure out what's going on.
 
-This can be very inneffectiant especially when we start dealing with very complex data and algortihims. This was just to show you that some problems can be quick to look at and others can take a very long time.
+This can be very inefficient especially when we start dealing with very complex data and algorithms. This was just to show you that some problems can be quick to look at and others can take a very long time.
 
-Thankfully we have a ton of tools at our disposle to use when it comes to debugging.
+Thankfully we have a ton of tools at our disposal to use when it comes to debugging.
 
 ## Tools
 
-Chrome has some amazing tools that we can use to help us development. It would be rrally dumb to try to create something without using these tools.
+Chrome has some amazing tools that we can use to help us development. It would be really dumb to try to create something without using these tools.
 
 You NEED to learn how to use them.
 
